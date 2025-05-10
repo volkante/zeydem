@@ -109,7 +109,7 @@ Badem (1 kg): 1000 TL
 
 ### Contact information
 
-Address: Salihli cd. 23, 48393 Manisa?
+Address: Neşat Kar cd. 23, 48393 Manisa?
 Phone: 232 324 43 43
 Email: info@zeydem.com
 
@@ -138,6 +138,6 @@ Gizlilik & Koşullar
 - Icons of our features (omifooddaki alttaki logolara bak)
 - Products (and list of diets)
 - About us. Ayvaco gibi
-- Testimonials + gallery
+- Testimonials + gallery (fotolar kare olmalı)
 - Get your first olive oil for free
 - Footer
