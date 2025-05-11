@@ -1,0 +1,13 @@
+/* MAIN COLOR 1 DARK OLIVE: #5f720f
+MAIN COLOR 2 LIGHT OLIVE:
+GRAY COLOR: #343a40 */
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
