@@ -18,7 +18,7 @@ Default: 1
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
 
 --02 COLORS
-
+BACKGROUND - #f0eadb;
 PRIMARY - MAIN COLOR 1 DARK OLIVE: #5f720f
 TINT - MAIN COLOR 2 LIGHT OLIVE: #d1ef71
 SHADES - 
@@ -36,10 +36,21 @@ body {
   font-family: sans-serif;
   line-height: 1;
   color: #333;
-  background-color: #d1ef71;
+  background-color: #f0eadb;
   font-weight: 400;
 }
 
 h1 {
   font-weight: 400;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+}
+
+.hero-photo {
+  object-fit: cover;
+  width: 400px;
+  height: 400px;
 }
