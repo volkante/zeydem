@@ -39,6 +39,10 @@ GREY COLORS: #555
   margin: 0;
 }
 
+html {
+  font-size: 62.5%;
+}
+
 body {
   font-family: sans-serif;
   line-height: 1;
