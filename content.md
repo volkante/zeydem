@@ -2,7 +2,7 @@
 
 ## Zeydem Hakkında
 
-İnsanlara doğal üretim zeytinyağı ve badem sağlamayı amaçlayan küçük bir aile çiftliğiyiz. Marketlerdeki fabrika üretimi zeytinyağları yerine doğrudan üreticiden doğal zeytin yağı ve badem alma fırsatı sunuyoruz. Türkiye'nin farklı yerlerine Zeytin yağı ve badem ulaştırıyoruz.
+İnsanlara doğal üretim zeytinyağı ve badem sağlamayı amaçlayan küçük bir aile çiftliğiyiz. Marketlerdeki fabrika üretimi zeytinyağları yerine doğrudan üreticiden doğal zeytin yağı ve badem alma fırsatı sunuyoruz. Türkiye'nin farklı yerlerine zeytin yağı ve badem ulaştırıyoruz.
 
 ## Marka
 
@@ -20,8 +20,7 @@ Manisa'daki küçük aile çiftliğimizde üretilen soğuk sıkım zeytinyağı 
 
 Doğal: Ürünlerimiz Manisa'da doğal yollarla üretiliyor ve taze olarak saklanıyor.
 
-Yerel: Aracısız-komisyonsuz yerelle bütünleşmiş küçük ama sevgi dolu bir
-aile üretim tesisiyiz.
+Yerel: Aracısız-komisyonsuz yerelle bütünleşmiş küçük ama sevgi dolu bir aile üretim tesisiyiz.
 
 İddialı: Zeytinyağı ve bademimize güveniyoruz. Sabunumuz, losyonumuz veya başka bir eşantiyon ürünümüz yok.
 
@@ -136,8 +135,8 @@ Gizlilik & Koşullar
 - Logo + Navigation
 - Hero
 - Icons of our features (omifooddaki alttaki logolara bak)
-- Products (and list of diets)
 - About us. Ayvaco gibi
+- Products (and list of diets)
 - Testimonials + gallery (fotolar kare olmalı)
 - Get your first olive oil for free
 - Footer
