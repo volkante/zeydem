@@ -37,8 +37,8 @@ GREY COLORS: #555
 
 * {
   box-sizing: border-box;
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
 html {
@@ -46,23 +46,33 @@ html {
 }
 
 body {
-  font-family: sans-serif;
-  line-height: 1;
   color: #333;
-  background-color: #f0eadb;
+  font-family: sans-serif;
   font-weight: 400;
+  line-height: 1;
 }
 
 a {
-  font-size: 2rem;
-  text-decoration: none;
   color: #333;
+  font-size: 2rem;
+  font-weight: 600;
+  text-decoration: none;
 }
 
 button {
-  font-size: 2.5rem;
+  background: hsl(72, 77%, 25%);
   border: none;
-  background: none;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 2.5rem;
+  font-weight: 500;
+  padding: 0.5rem 2rem;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: hsl(72, 77%, 21%);
 }
 
 h1 {
@@ -74,17 +84,42 @@ p {
   font-size: 2rem;
 }
 
+/* HEADER */
+
+header {
+  background-color: #f0eadb;
+  padding: 0 3rem;
+  width: 100%;
+}
+
 /* NAV */
 
+nav {
+  align-items: center;
+  display: flex;
+  gap: 4rem;
+  margin-bottom: 6rem;
+}
+
+nav a:hover {
+  color: #5f720f;
+}
+
 .logo {
-  width: 12rem;
-  height: 12rem;
+  cursor: pointer;
+  height: 15rem;
+  margin-right: auto;
+  width: 15rem;
 }
 
 /* HERO */
 
+.hero {
+  background-color: #f0eadb;
+}
+
 .hero-photo {
+  height: 50rem;
   object-fit: cover;
-  width: 500px;
-  height: 500px;
+  width: 50rem;
 }
