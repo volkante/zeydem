@@ -106,20 +106,30 @@ nav a:hover {
 }
 
 .logo {
+  object-fit: cover;
   cursor: pointer;
-  height: 15rem;
+  height: 10rem;
   margin-right: auto;
-  width: 15rem;
 }
 
 /* HERO */
 
 .hero {
   background-color: #f0eadb;
+  display: flex;
+}
+
+.header-content {
+  display: flex;
+  flex-direction: column;
+  gap: 6rem;
+}
+
+.header-content > p {
+  font-size: 2rem;
+  line-height: 1.5;
 }
 
 .hero-photo {
-  height: 50rem;
-  object-fit: cover;
-  width: 50rem;
+  height: 300px;
 }
