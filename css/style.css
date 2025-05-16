@@ -1,5 +1,5 @@
 /* MAIN COLOR 1 DARK OLIVE: #5f720f
-MAIN COLOR 2 LIGHT OLIVE: #d1ef71
+MAIN COLOR 2  tint #eff1e7
 GRAY COLOR: #555 */
 
 /* 
@@ -17,7 +17,7 @@ Default: 1
 --02 COLORS
 BACKGROUND - #f0eadb;
 PRIMARY - MAIN COLOR 1 DARK OLIVE: #5f720f
-TINT - MAIN COLOR 2 LIGHT OLIVE: #d1ef71
+TINT - MAIN COLOR 2 #eff1e7
 SHADES - 
 ACCENTS - 
 GREY COLORS: #555
@@ -52,14 +52,7 @@ body {
   line-height: 1;
 }
 
-a {
-  color: #333;
-  font-size: 2rem;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-button {
+.btn {
   background: hsl(72, 77%, 25%);
   border: none;
   border-radius: 8px;
@@ -72,13 +65,15 @@ button {
   transition: background-color 0.3s ease;
 }
 
-button:hover {
+.btn:hover {
   background-color: hsl(72, 77%, 21%);
 }
 
 h1 {
   font-size: 6rem;
   font-weight: 700;
+  letter-spacing: -0.5px;
+  margin-bottom: 6.4rem;
 }
 
 p {
@@ -88,7 +83,7 @@ p {
 /* HEADER */
 
 header {
-  background-color: #f0eadb;
+  background-color: #eff1e7;
   padding: 0 3rem;
   width: 100%;
 }
@@ -99,11 +94,7 @@ nav {
   align-items: center;
   display: flex;
   gap: 4rem;
-  margin-bottom: 6rem;
-}
-
-nav a:hover {
-  color: #5f720f;
+  margin-bottom: 8rem;
 }
 
 .logo {
@@ -113,33 +104,53 @@ nav a:hover {
   margin-right: auto;
 }
 
+.nav-link {
+  color: #333;
+  font-size: 2rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #5f720f;
+}
+
 /* HERO */
 
 .hero {
-  background-color: #f0eadb;
   display: flex;
-  max-width: 128rem;
+  max-width: 120rem;
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 8rem;
-  gap: 8rem;
+  gap: 10rem;
 }
 
 .hero-content {
   display: flex;
   flex-direction: column;
-  gap: 6rem;
+  flex: 1;
 }
 
 .hero-content > p {
   font-size: 2rem;
-  color: #444;
+  color: #555;
   line-height: 1.5;
+  margin-bottom: 8rem;
+}
+
+.hero-img-box {
+  align-self: center;
+  width: 100%;
+  max-width: 700rem;
+  flex: 1;
 }
 
 .hero-photo {
+  display: block;
   object-fit: cover;
-  width: 60rem;
+  max-width: 100%;
+  height: auto;
 }
 
 .hero-buttons {
