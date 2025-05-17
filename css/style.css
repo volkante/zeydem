@@ -84,7 +84,7 @@ p {
 
 header {
   background-color: #eff1e7;
-  padding: 0 3rem;
+  padding: 2.4rem 3.2rem 6.4rem 3.2rem;
   width: 100%;
 }
 
@@ -94,7 +94,7 @@ nav {
   align-items: center;
   display: flex;
   gap: 4rem;
-  margin-bottom: 8rem;
+  margin-bottom: 6.4rem;
 }
 
 .logo {
@@ -141,9 +141,9 @@ nav {
 
 .hero-img-box {
   align-self: center;
-  width: 100%;
-  max-width: 700rem;
   flex: 1;
+  max-width: 700rem;
+  width: 100%;
 }
 
 .hero-photo {
