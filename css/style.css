@@ -52,21 +52,38 @@ body {
   line-height: 1;
 }
 
-.btn {
-  background: hsl(72, 77%, 25%);
-  border: none;
+.btn:link,
+.btn:visited {
   border-radius: 8px;
-  color: #fff;
   cursor: pointer;
   display: inline-block;
   font-size: 2.5rem;
   font-weight: 500;
-  padding: 1rem 4rem;
+  padding: 1.6rem 3.2rem;
+  text-decoration: none;
   transition: background-color 0.3s ease;
 }
 
-.btn:hover {
-  background-color: hsl(72, 77%, 21%);
+.btn--cta:link,
+.btn--cta:visited {
+  background: #5f720f;
+  border: none;
+  color: #fff;
+}
+
+.btn--cta:hover {
+  background-color: #4c5b0c;
+}
+
+.btn--info:link,
+.btn--info:visited {
+  background: white;
+  border: 1px solid white;
+  color: #555;
+}
+
+.btn--info:hover {
+  background-color: #eff1e7;
 }
 
 h1 {
