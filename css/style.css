@@ -61,7 +61,7 @@ body {
   font-weight: 500;
   padding: 1.6rem 3.2rem;
   text-decoration: none;
-  transition: background-color 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 .btn--cta:link,
@@ -172,5 +172,5 @@ nav {
 
 .hero-buttons {
   display: flex;
-  gap: 4rem;
+  gap: 2.4rem;
 }
