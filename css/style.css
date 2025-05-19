@@ -157,7 +157,7 @@ nav {
 }
 
 .hero-img-box {
-  /* align-self: center; */
+  align-self: center;
   flex: 1;
   max-width: 700rem;
   width: 100%;
