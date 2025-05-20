@@ -33,7 +33,9 @@ GREY COLORS: #555
 
 */
 
+/*  ******************** */
 /* GENERAL STYLES */
+/*  ******************** */
 
 * {
   box-sizing: border-box;
@@ -98,7 +100,9 @@ p {
   font-size: 2rem;
 }
 
+/*  ******************** */
 /* HEADER */
+/*  ******************** */
 
 .header {
   display: flex;
@@ -132,7 +136,13 @@ p {
   color: #5f720f;
 }
 
-/* HERO */
+/*  ******************** */
+/* MAIN */
+/*  ******************** */
+
+main {
+  background-color: #eff1e7;
+}
 
 .hero {
   background-color: #eff1e7;
@@ -140,7 +150,7 @@ p {
   max-width: 120rem;
   margin-left: auto;
   margin-right: auto;
-  padding: 8rem 0;
+  padding: 8rem 2.4rem;
   gap: 10rem;
 }
 
