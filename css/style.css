@@ -100,19 +100,12 @@ p {
 
 /* HEADER */
 
-header {
-  background-color: #eff1e7;
-  padding: 2.4rem 3.2rem 6.4rem 3.2rem;
-  width: 100%;
-}
-
-/* NAV */
-
-nav {
-  align-items: center;
+.header {
   display: flex;
-  gap: 4rem;
-  margin-bottom: 6.4rem;
+  align-items: center;
+  background-color: #eff1e7;
+  padding-left: 1.6rem;
+  padding-right: 4.8rem;
 }
 
 .logo {
@@ -120,6 +113,12 @@ nav {
   cursor: pointer;
   height: 10rem;
   margin-right: auto;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 2.4rem;
 }
 
 .nav-link {
@@ -136,11 +135,12 @@ nav {
 /* HERO */
 
 .hero {
+  background-color: #eff1e7;
   display: flex;
   max-width: 120rem;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 8rem;
+  padding: 8rem 0;
   gap: 10rem;
 }
 
