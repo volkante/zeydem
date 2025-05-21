@@ -10,9 +10,15 @@ GRAY COLOR: #555 */
 
 - FONT WEIGHTS
 Default: 400
+500
+600
+700
 
 - LINE HEIGHTS
 Default: 1
+1.1
+paragraph 1.5
+
 
 --02 COLORS
 BACKGROUND - #f0eadb;
@@ -25,6 +31,8 @@ GREY COLORS: #555
 -- 03 SHADOWS
 
 -- 04 BORDER-RADIUS
+
+8px
 
 -- 05 WHITESPACE
 
@@ -126,7 +134,7 @@ p {
 .nav {
   display: flex;
   align-items: center;
-  gap: 2.4rem;
+  gap: 3rem;
 }
 
 .nav-link {
