@@ -75,7 +75,8 @@ body {
   color: #fff;
 }
 
-.btn--cta:hover {
+.btn--cta:hover,
+.btn--cta:active {
   background-color: #4c5b0c;
 }
 
