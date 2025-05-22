@@ -5,20 +5,22 @@ GRAY COLOR: #555 */
 /* 
 --01 TYPOGRAPHY SYSTEM
 
-- FONT SIZE SYSTEM (px)
+- font sizes(px)
 10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 /86 / 98
 
-- FONT WEIGHTS
+- Font Weights
 Default: 400
 500
 600
 700
 
-- LINE HEIGHTS
+- Line Heights
 Default: 1
 1.1
 paragraph 1.5
 
+- Letter Spacing
+-0.5px h1
 
 --02 COLORS
 BACKGROUND - #f0eadb;
@@ -27,6 +29,7 @@ TINT - MAIN COLOR 2 #eff1e7
 SHADES - 
 ACCENTS - 
 GREY COLORS: #555
+#333
 
 -- 03 SHADOWS
 
@@ -36,9 +39,10 @@ GREY COLORS: #555
 
 -- 05 WHITESPACE
 
-- SPACING SYSTEM (px)
+- Spacing System (px)
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
 
+/////////////////// CSS STARTS /////////////////////////
 */
 
 /*  **************************** */
