@@ -157,6 +157,8 @@ p {
 /* MAIN */
 /*  ******************** */
 
+/* HERO SECTION */
+
 .hero-section {
   background-color: #eff1e7;
 }
@@ -206,3 +208,5 @@ p {
   display: flex;
   gap: 2.4rem;
 }
+
+/* WHY SECTION */
