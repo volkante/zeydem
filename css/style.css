@@ -88,6 +88,11 @@ body {
   background-color: #4c5b0c;
 }
 
+.btn--cta---nav:link,
+.btn--cta---nav:visited {
+  padding: 1.2rem 2.4rem;
+}
+
 .btn--info:link,
 .btn--info:visited {
   background: white;
@@ -139,7 +144,7 @@ p {
 
 .nav-link {
   color: #333;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 500;
   text-decoration: none;
 }
