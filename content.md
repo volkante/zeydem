@@ -18,13 +18,15 @@ Manisa'daki küçük aile çiftliğimizde üretilen soğuk sıkım zeytinyağı 
 
 ### Zeydem özellikleri
 
-Doğal: Ürünlerimiz Manisa'da doğal yollarla üretiliyor ve taze olarak saklanıyor.
+ICON: Yaprak
 
-Yerel: Aracısız-komisyonsuz yerelle bütünleşmiş küçük ama sevgi dolu bir aile üretim tesisiyiz.
+Doğal: Ağaçlarımızda pestisid kullanmıyoruz. Zeytinyağımız hiçbir kimsayal işlem görmüyor. Üretimde geleneksel yöntemlere dayanıyoruz.
 
-İddialı: Zeytinyağı ve bademimize güveniyoruz. Sabunumuz, losyonumuz veya başka bir eşantiyon ürünümüz yok.
+Kaliteli: Zeytinyağımız ilk soğuk sıkım ve asit oranı %0.4'ü geçmiyor. Natürel sızma zeytinyağı olmanın hakkını veriyoruz.
 
-Şeffaf: Zeytinyağımızdaki asit oranımız ve ürünlerimizin diğer özellikleri sayfamızda. Daha ayrıntlı bilgi talebiniz için mail ve telefonla ulaşabilirsiniz. Olur da yolunuz düşerse Manisa'daki çiftliğimizin kapısı herkese açık.
+Yerel: Yerelle bütünleşmiş bir aile çiftliğiyiz. Komisyonculara ve market zincirlerine çalışmıyoruz.
+
+Şeffaf: Asit oranı ve ürünlerimizin diğer özellikleri sayfamızda. Daha ayrıntılı bilgi talebiniz için bir mail veya telefon uzaklıktayız. Olur da yolunuz düşerse Manisa'daki çiftliğimizin kapısı herkese açık.
 
 ## Zeytinyağı veya badem al
 
