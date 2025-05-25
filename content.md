@@ -18,6 +18,8 @@ Manisa'daki küçük aile çiftliğimizde üretilen soğuk sıkım zeytinyağı 
 
 ### Zeydem özellikleri
 
+Niçin bizim sızma(extra virgin) zeytinyağımızı tercih etmelisiniz?
+
 ICON: Yaprak
 
 Doğal: Ağaçlarımızda pestisid kullanmıyoruz. Zeytinyağımız hiçbir kimsayal işlem görmüyor. Üretimde geleneksel yöntemlere dayanıyoruz.
@@ -27,14 +29,6 @@ Kaliteli: Zeytinyağımız ilk soğuk sıkım ve asit oranı %0.4'ü geçmiyor. 
 Yerel: Yerelle bütünleşmiş bir aile çiftliğiyiz. Komisyonculara ve market zincirlerine çalışmıyoruz.
 
 Şeffaf: Asit oranı ve ürünlerimizin diğer özellikleri sayfamızda. Daha ayrıntılı bilgi talebiniz için bir mail veya telefon uzaklıktayız. Olur da yolunuz düşerse Manisa'daki çiftliğimizin kapısı herkese açık.
-
-## Zeytinyağı veya badem al
-
-Zeytinyağı veya badem seç.
-
-Adresi ve ödeme yöntemini gir.
-
-Siparişini al.
 
 ### Olive oil works for any diet:
 
@@ -50,41 +44,24 @@ bitki bazlı
 sağlıklı
 yağ odaklı
 
-### Sample meals
+### Products
 
-**Leziz Zeytinyağı ve Badem **
+**Leziz Zeytinyağı **
 
-Seçenek 1: Zeytinyağı
+Seçenek 1: 5 Litre Zeytinyağı
 
-- Doğal
-- Asit oranı düşük
-- Soğuk sıkım
+- Litre başı %20 tasarruf
+- Kargo ücreti her zaman bizden
+- 2000 TL
 
-Seçenek 2: Badem
+Seçenek 2: 1 Litre Zeytinyağı
 
-- Taze
-- Doğal
-- E vitamini deposu
+- İlk kargo ücreti bizden
+- 500 TL
 
 ### 100 ml ücretsiz deneme zeytinyağı
 
-Formu doldurun. Sizinle iletişime geçelim. Zeytinyağımızı deneyin.
-
-### 2 ürünümüz var
-
-Fiyatlarımız KDV dahildir.
-
-Zeytinyağı (5 L): 2000 TL
-
-- 7/24 sipariş imkanı
-- Kargo bizden
-- Farklı ödeme yöntemleri
-
-Badem (1 kg): 1000 TL
-
-- 7/24 sipariş imkanı
-- Kargo bizden
-- Farklı ödeme yöntemleri
+Formu doldurun. Sizinle iletişime geçelim. Zeytinyağımızı ücretsiz deneyin.
 
 ### Photo gallery
 
@@ -97,10 +74,10 @@ Badem (1 kg): 1000 TL
 "Böylesine doğal ve lezzetli bir zeytinyağı uzun zamandır tatmamıştım. Her damlasında emeğinizi hissediyorum. Üstelik yerel bir çiftçiden geldiğini bilmek içimi daha da rahatlatıyor."
 – Ayşe Güneş
 
-"Bademleriniz taptaze, çıtır çıtır ve inanılmaz aromalı. Marketten aldıklarımla karşılaştırınca aradaki farkı anlamamak imkânsız. Şeffaf üretim süreciniz ve dürüstlüğünüz için ayrıca teşekkür ederim."
+"Zeytinyağınız inanılmaz aromalı. Marketten aldıklarımla karşılaştırınca aradaki farkı anlamamak imkânsız. Kargo sürecindeki anlayışınız için ayrıca teşekkür ederim"
 – Murat Eren
 
-"Hem zeytinyağınız hem bademleriniz kalite kokuyor. Etiketinde ne yazıyorsa aynen o var, hiçbir gizli katkı maddesi yok. Sizden alışveriş yapmak, güvendiğim bir dosttan almak gibi."
+"Bu zeytinyağı kalite kokuyor. Etiketinde ne yazıyorsa aynen o var, hiçbir gizli katkı maddesi yok. Sizden alışveriş yapmak, güvendiğim bir dosttan almak gibi."
 – Selin Arıkan
 
 "Böyle kaliteli ürünleri büyük zincirlerde değil de doğrudan yerel bir üreticiden alabilmek büyük bir ayrıcalık. Doğallık, şeffaflık ve lezzet bir arada. Gerçekten harikasınız!"
