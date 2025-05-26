@@ -72,14 +72,6 @@ body {
   margin-right: auto;
 }
 
-.grid {
-  display: grid;
-}
-
-.grid--2-cols {
-  grid-template-columns: repeat(2, 1fr);
-}
-
 /* Buttons */
 
 .btn:link,
