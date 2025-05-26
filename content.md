@@ -18,7 +18,7 @@ Manisa'daki küçük aile çiftliğimizde üretilen soğuk sıkım zeytinyağı.
 
 ### Zeydem özellikleri
 
-Niçin bizim natürel sızma zeytinyağımızı tercih etmelisiniz?
+Niçin Zeydem natürel sızma zeytinyağı?
 
 Doğal: Ağaçlarımızda pestisid kullanmıyoruz. Yağımız kimsayal işlem görmüyor. Geleneksel yöntemlere dayanıyoruz.
 

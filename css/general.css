@@ -68,13 +68,16 @@ body {
 
 .container {
   max-width: 120rem;
-  background-color: aqua;
   margin-left: auto;
   margin-right: auto;
 }
 
 .grid {
   display: grid;
+}
+
+.grid--2-cols {
+  grid-template-columns: repeat(2, 1fr);
 }
 
 /* Buttons */
@@ -121,11 +124,22 @@ body {
 
 /* General Text Elements */
 
-h1 {
-  font-size: 6rem;
+h1,
+h2 {
   font-weight: 700;
   letter-spacing: -0.5px;
+}
+
+h1 {
+  font-size: 6rem;
   line-height: 1.1;
+}
+
+h2 {
+  font-size: 4.4rem;
+  line-height: 1.2;
+  letter-spacing: -0.4px;
+  margin-bottom: 6.4rem;
 }
 
 p {
