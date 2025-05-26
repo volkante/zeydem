@@ -14,7 +14,7 @@ Brand color: #5f720f
 
 ### Özet
 
-Manisa'daki küçük aile çiftliğimizde üretilen soğuk sıkım zeytinyağı ve badem doğrudan evinize teslim edilir.
+Manisa'daki küçük aile çiftliğimizde üretilen soğuk sıkım zeytinyağı...
 
 ### Zeydem özellikleri
 
