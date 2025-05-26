@@ -96,13 +96,18 @@
   padding: 8rem 0;
 }
 
+.features {
+  display: flex;
+  flex-direction: column;
+  gap: 4.8rem;
+}
+
 .feature-box {
   display: flex;
 }
 
 .feature-icon {
   max-width: 20rem;
-  width: 100%;
 }
 
 .feature-icon > img {
