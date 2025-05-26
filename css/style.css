@@ -96,6 +96,10 @@
   padding: 8rem 0;
 }
 
+.feature-box {
+  display: flex;
+}
+
 .feature-icon {
   max-width: 20rem;
   width: 100%;
