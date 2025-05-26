@@ -18,17 +18,15 @@ Manisa'daki küçük aile çiftliğimizde üretilen soğuk sıkım zeytinyağı 
 
 ### Zeydem özellikleri
 
-Niçin bizim sızma(extra virgin) zeytinyağımızı tercih etmelisiniz?
+Niçin bizim natürel sızma zeytinyağımızı tercih etmelisiniz?
 
-ICON: Yaprak
+Doğal: Ağaçlarımızda pestisid kullanmıyoruz. Yağımız kimsayal işlem görmüyor. Geleneksel yöntemlere dayanıyoruz.
 
-Doğal: Ağaçlarımızda pestisid kullanmıyoruz. Zeytinyağımız hiçbir kimsayal işlem görmüyor. Üretimde geleneksel yöntemlere dayanıyoruz.
+Kaliteli: Zeytinyağımız ilk soğuk sıkım ve asit oranı %0.4'ü geçmiyor.
 
-Kaliteli: Zeytinyağımız ilk soğuk sıkım ve asit oranı %0.4'ü geçmiyor. Natürel sızma zeytinyağı olmanın hakkını veriyoruz.
+Yerel: Yerelle bütünleşmiş bir aile çiftliğiyiz. Aracı ve market zincirleriyle çalışmıyoruz.
 
-Yerel: Yerelle bütünleşmiş bir aile çiftliğiyiz. Komisyonculara ve market zincirlerine çalışmıyoruz.
-
-Şeffaf: Asit oranı ve ürünlerimizin diğer özellikleri sayfamızda. Daha ayrıntılı bilgi talebiniz için bir mail veya telefon uzaklıktayız. Olur da yolunuz düşerse Manisa'daki çiftliğimizin kapısı herkese açık.
+Şeffaf: Ürünlerimizin tüm özellikleri sayfamızda. Ayrıntılı bilgi talebiniz için bir mail veya telefon uzaklıktayız. Yolunuz düşerse Manisa'daki çiftliğimizin kapısı herkese açık.
 
 ### Olive oil works for any diet:
 

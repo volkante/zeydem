@@ -66,6 +66,15 @@ body {
   line-height: 1;
 }
 
+.container {
+  max-width: 120rem;
+  background-color: aqua;
+}
+
+.grid {
+  display: grid;
+}
+
 /* Buttons */
 
 .btn:link,
