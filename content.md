@@ -2,7 +2,7 @@
 
 ## Zeydem Hakkında
 
-İnsanlara doğal üretim zeytinyağı ve badem sağlamayı amaçlayan küçük bir aile çiftliğiyiz. Marketlerdeki fabrika üretimi zeytinyağları yerine doğrudan üreticiden doğal zeytin yağı ve badem alma fırsatı sunuyoruz. Türkiye'nin farklı yerlerine zeytin yağı ve badem ulaştırıyoruz.
+İnsanlara doğal üretim zeytinyağı ve badem sağlamayı amaçlayan küçük bir aile çiftliğiyiz. Marketlerdeki fabrika üretimi zeytinyağları yerine doğrudan üreticiden doğal zeytin yağı alma fırsatı sunuyoruz. Türkiye'nin farklı yerlerine zeytin yağı ulaştırıyoruz.
 
 ## Marka
 
