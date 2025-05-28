@@ -2,7 +2,18 @@
 
 ## Zeydem Hakkında
 
-İnsanlara doğal üretim zeytinyağı ve badem sağlamayı amaçlayan küçük bir aile çiftliğiyiz. Marketlerdeki fabrika üretimi zeytinyağları yerine doğrudan üreticiden doğal zeytin yağı alma fırsatı sunuyoruz. Türkiye'nin farklı yerlerine zeytin yağı ulaştırıyoruz.
+Sofranıza "iyi zeytinyağı" getiriyoruz.
+
+Bizim yağımızı tercih edin ya da etmeyin bazı noktaları göz önünde bulundurmanızı tavsiye ediyoruz:
+
+Doğru, zeytinyağı sağlıklı bir diyetin vazgeçilmezi ama bu ne yazık ki her zeytinyağını doğrudan sağlıklı yapmıyor.
+
+Marketlerde bulduğumuz endüstriyel üretim yağlar genellikle yoğun kimyasal işlemlerden geçer. Rafine yağlarla natürel yağlar karıştırılır, "natürel" etiketiyle satılır. Oysa bu tür yağların besin değeri oldukça düşüktür. Hele bir de yüksek sıcaklıkta işlem görmüşse, vitamin ve antioksidanlar neredeyse tamamen yok olur.
+
+Peki gerçek natürel sızma zeytinyağını nasıl ayırt edebilirsiniz?
+Cevabı çok basit: Tadı ve aromasıyla kendini belli eder. Bu, yüzyıllardır böyle!
+
+Zeydem olarak kimyasal işlem görmemiş, soğuk sıkım, katkısız zeydem zeytinyağımızın tadına güveniyoruz.
 
 ## Marka
 
