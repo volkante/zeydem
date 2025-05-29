@@ -125,7 +125,7 @@ body {
 /* General Text Elements */
 
 h1,
-h2 {
+.heading-secondary {
   font-weight: 700;
   letter-spacing: -0.5px;
 }
@@ -135,7 +135,7 @@ h1 {
   line-height: 1.1;
 }
 
-h2 {
+.heading-secondary {
   font-size: 3rem;
   line-height: 1.2;
   letter-spacing: -0.4px;

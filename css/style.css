@@ -65,7 +65,6 @@
 }
 
 .hero-content > p {
-  font-size: 2rem;
   line-height: 1.5;
   margin-bottom: 8rem;
 }
@@ -112,4 +111,30 @@
 
 .feature-text > p {
   line-height: 1.8;
+}
+
+/* ADVICES SECTION */
+
+.advices-section {
+  padding: 8rem 0;
+}
+
+.advices-section-intro {
+  margin-bottom: 3.2rem;
+}
+
+.advices-section p {
+  line-height: 1.7;
+}
+
+.advice-img-box {
+  max-width: 20rem;
+  /*   display: flex;
+  justify-content: center; */
+}
+
+.advice-img-box > img {
+  display: block;
+  object-fit: contain;
+  width: 100%;
 }
