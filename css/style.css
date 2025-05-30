@@ -129,12 +129,13 @@
 
 .advice-img-box {
   max-width: 20rem;
-  /*   display: flex;
-  justify-content: center; */
+
+  display: flex;
+  justify-content: center;
 }
 
 .advice-img-box > img {
   display: block;
-  object-fit: contain;
+  object-fit: cover;
   width: 100%;
 }
