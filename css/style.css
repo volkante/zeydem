@@ -120,22 +120,25 @@
 }
 
 .advices-section-intro {
-  margin-bottom: 3.2rem;
+  margin-bottom: 6.4rem;
 }
 
 .advices-section p {
   line-height: 1.7;
 }
 
-.advice-img-box {
-  max-width: 20rem;
-
-  display: flex;
-  justify-content: center;
+.advices-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 6.4rem;
 }
 
 .advice-img-box > img {
-  display: block;
-  object-fit: cover;
   width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.advice-text-summary {
+  grid-column: 1/-1;
 }
