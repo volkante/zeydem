@@ -141,12 +141,15 @@
 
 .advice-img-box > img {
   width: 100%;
-  height: 500px;
+  height: auto;
   object-fit: cover;
   object-position: top;
-  border-radius: 6px;
 }
 
 .advice-text-summary {
   grid-column: 1/-1;
 }
+
+/* .advice-img-box:last-child {
+  grid-column: 1/-1;
+} */
