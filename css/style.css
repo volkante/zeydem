@@ -147,3 +147,9 @@
 #olive-oil-factory-pic {
   filter: grayscale(1);
 }
+
+/* PRODUCTS SECTION */
+
+.products-section {
+  padding: 8rem 0;
+}

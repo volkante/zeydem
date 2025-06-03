@@ -53,6 +53,15 @@ bitki bazlı
 sağlıklı
 yağ odaklı
 
+veya
+
+Manisa Köprübaşı iyi cins zeytinden
+Yeni Hasat
+%0,4 Asit Oranı
+İlk soğuk sıkım
+Natürel Sızma
+Doğrudan üreticiden
+
 ### Products
 
 **Leziz Zeytinyağı **
@@ -61,12 +70,12 @@ Seçenek 1: 5 Litre Zeytinyağı
 
 - Litre başı %20 tasarruf
 - Kargo ücreti her zaman bizden
-- 2000 TL
+- 1600 TL
 
 Seçenek 2: 1 Litre Zeytinyağı
 
 - İlk kargo ücreti bizden
-- 500 TL
+- 400 TL
 
 ### 100 ml ücretsiz deneme zeytinyağı
 
