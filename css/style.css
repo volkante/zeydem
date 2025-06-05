@@ -153,3 +153,20 @@
 .products-section {
   padding: 8rem 0;
 }
+
+.products-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.olive-oil-image-box {
+  width: 100%;
+}
+
+.five-liter-olive-oil-image,
+.one-liter-olive-oil-image {
+  max-width: 100%;
+  max-height: 36rem;
+  object-fit: contain;
+  display: block;
+}

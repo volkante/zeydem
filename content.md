@@ -14,10 +14,9 @@ Peki gerçek natürel sızma zeytinyağını nasıl ayırt edebilirsiniz?
 Cevabı çok basit: Tadı ve aromasıyla kendini belli eder. Bu, yüzyıllardır böyle!
 
 Zeydem olarak kimyasal işlem görmemiş, soğuk sıkım, katkısız zeydem zeytinyağımızın tadına güveniyoruz.
+Headline: Bahçeden kapınıza doğal zeytin yağı ve badem
 
 ## Marka
-
-Headline: Bahçeden kapınıza doğal zeytin yağı ve badem
 
 Brand color: #5f720f
 
