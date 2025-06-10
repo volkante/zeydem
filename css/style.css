@@ -181,7 +181,7 @@
 
 .five-liter-olive-oil-features,
 .one-liter-olive-oil-features,
-.product-specifications-list {
+.product-other-specifications-list {
   display: flex;
   flex-direction: column;
   gap: 2.4rem;
@@ -189,8 +189,12 @@
 
 .five-liter-olive-oil-features > li,
 .one-liter-olive-oil-features > li,
-.product-specifications-list > li {
+.product-other-specifications-list > li {
   font-size: 1.8rem;
+}
+
+.product-feature {
+  /* display: flex; */
 }
 
 .common-features-title {
@@ -204,5 +208,6 @@
 }
 
 .checkmark-icon {
-  font-size: 2rem;
+  font-size: 2.4rem;
+  color: #4c5b0c;
 }
