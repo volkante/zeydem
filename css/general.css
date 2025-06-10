@@ -167,3 +167,7 @@ p {
 ul {
   list-style: none;
 }
+
+li strong {
+  font-weight: 600;
+}
