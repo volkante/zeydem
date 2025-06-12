@@ -212,4 +212,9 @@
 .checkmark-icon {
   font-size: 2.4rem;
   color: #4c5b0c;
+  flex: 1;
+}
+
+.product-feature > span {
+  flex: 10;
 }
