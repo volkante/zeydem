@@ -163,7 +163,10 @@
 .product {
   display: flex;
   flex-direction: column;
-  border: 1px solid salmon;
+  padding-bottom: 4.8rem;
+  box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
+  border-radius: 12px;
+  overflow: hidden;
 }
 
 .olive-oil-image-box {
@@ -225,11 +228,7 @@ p.common-features-title {
   padding: 1.2rem 4.8rem;
 }
 
-.product-other-specifications {
-  border: 1px solid seagreen;
-}
-
-.common-features-title {
+p.common-features-title {
   margin-bottom: 3.2rem;
 }
 
