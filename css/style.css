@@ -174,12 +174,9 @@
 .five-liter-olive-oil-image,
 .one-liter-olive-oil-image {
   max-width: 100%;
-  /* max-height: 30rem; */
   aspect-ratio: 1;
   object-fit: cover;
   display: block;
-  /* margin-left: auto;
-  margin-right: auto; */
 }
 
 .product-text {
@@ -229,7 +226,6 @@ p.common-features-title {
 }
 
 .product-other-specifications {
-  /*  padding-left: 2.4rem; */
   border: 1px solid seagreen;
 }
 
