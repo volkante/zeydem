@@ -175,3 +175,9 @@ ul {
 strong {
   font-weight: 600;
 }
+
+/* HELPER CLASS */
+
+.center-text {
+  text-align: center;
+}
