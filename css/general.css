@@ -176,6 +176,10 @@ strong {
   font-weight: 600;
 }
 
+strong.price {
+  color: #444;
+}
+
 /* HELPER CLASS */
 
 .center-text {
