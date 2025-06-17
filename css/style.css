@@ -176,6 +176,7 @@
   border-radius: 12px;
   overflow: hidden;
   transition: all 0.4s;
+  background-color: #eff1e7;
 }
 
 .product:hover {
