@@ -1,5 +1,5 @@
 /*  ******************** */
-/*  ****** 1 .HEADER ***** */
+/*  ****** 1. HEADER ***** */
 /*  ******************** */
 
 /* 
@@ -159,16 +159,13 @@ TODO 4: why section'ın tasarımının üzerinden geçme. Başka bir şey karş�
 /*** 2.4 PRODUCTS SECTION ***/
 
 /* 
-TODO 1:
-
+TODO 5:
 Ürün kutusundaki check mark'ları icon yapmak veya ai aracılığıyla png yapmak.
 
-TODO 2:
-
+TODO 6:
 Ürün fotoğraflarının arka planını canva'da kaldırmak veya tek renk yapmak. Product div'inin arkaplan rengi olur.
 
-TODO 3: 
-
+TODO 7: 
 Checkmark'ları responsive'de kaldırmak veya yönetmek. Dengesiz küçülüyorlar.
 
 */
@@ -235,10 +232,6 @@ Checkmark'ları responsive'de kaldırmak veya yönetmek. Dengesiz küçülüyorl
 .one-liter-olive-oil-features > li,
 .product-other-specifications-list > li {
   font-size: 1.8rem;
-}
-
-p.product-title {
-  text-align: center;
 }
 
 p.product-title,
