@@ -100,10 +100,6 @@ TODO 1 :Zeydem logosunun rengini ana renklerden biri yap. Mesela button veya but
   padding: 9.6rem 0;
 }
 
-.container--why-heading {
-  margin-bottom: 9.6rem;
-}
-
 .feature-icon {
   max-width: 20rem;
   display: flex;
@@ -133,10 +129,6 @@ TODO 4: why section'ın tasarımının üzerinden geçme. Başka bir şey karş�
 
 .advices-section {
   padding: 9.6rem 0;
-}
-
-.container--advices-heading {
-  margin-bottom: 9.6rem;
 }
 
 .advices-section p {
@@ -186,10 +178,6 @@ Checkmark'ları responsive'de kaldırmak veya yönetmek. Dengesiz küçülüyorl
 }
 
 /* 2.4.1 Container products heading */
-
-.container--products-heading {
-  margin-bottom: 9.6rem;
-}
 
 /* 2.4.2 Products container */
 

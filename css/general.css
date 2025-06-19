@@ -82,6 +82,10 @@ body {
   column-gap: 6.4rem;
 }
 
+.container--heading {
+  margin-bottom: 9.6rem;
+}
+
 /* Buttons */
 
 .btn:link,
