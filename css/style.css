@@ -1,6 +1,10 @@
 /*  ******************** */
-/* HEADER */
+/*  ****** 1 .HEADER ***** */
 /*  ******************** */
+
+/* 
+TODO 1 :Zeydem logosunun rengini ana renklerden biri yap. Mesela button veya button-hover rengi. Canva'da arka planı kaldırıp, rengi yapabilirsin.
+*/
 
 .header {
   display: flex;
@@ -35,17 +39,16 @@
 }
 
 /*  ******************** */
-/* MAIN */
+/*  ******* 2. MAIN ******* */
 /*  ******************** */
 
-/* HERO SECTION */
+/*** 2.1 HERO SECTION ***/
 
 .hero-section {
   background-color: #eff1e7;
 }
 
 .hero {
-  background-color: #eff1e7;
   display: flex;
   max-width: 120rem;
   margin-left: auto;
@@ -88,7 +91,10 @@
   gap: 4.8rem;
 }
 
-/* WHY SECTION */
+/*** 2.2 WHY SECTION ***/
+
+/* TODO 2 :Iconları canva'da renklendirmek?
+*/
 
 .why-section {
   padding: 9.6rem 0;
@@ -117,7 +123,13 @@
   line-height: 1.8;
 }
 
-/* ADVICES SECTION */
+/*** 2.3 ADVICES SECTION ***/
+
+/* 
+TODO 3: why section'ın ile products section'ın yerini değiştirme.
+
+TODO 4: why section'ın tasarımının üzerinden geçme. Başka bir şey karşına çıkarsa.
+*/
 
 .advices-section {
   padding: 9.6rem 0;
@@ -152,11 +164,34 @@
   filter: grayscale(1);
 }
 
-/* PRODUCTS SECTION */
+/*** 2.4 PRODUCTS SECTION ***/
+
+/* 
+TODO 1:
+
+Ürün kutusundaki check mark'ları icon yapmak veya ai aracılığıyla png yapmak.
+
+TODO 2:
+
+Ürün fotoğraflarının arka planını canva'da kaldırmak veya tek renk yapmak. Product div'inin arkaplan rengi olur.
+
+TODO 3: 
+
+Checkmark'ları responsive'de kaldırmak veya yönetmek. Dengesiz küçülüyorlar.
+
+*/
 
 .products-section {
   padding: 9.6rem 0;
 }
+
+/* 2.4.1 Container products heading */
+
+.container--products-heading {
+  margin-bottom: 9.6rem;
+}
+
+/* 2.4.2 Products container */
 
 .products-container {
   display: grid;
@@ -164,9 +199,7 @@
   gap: 6.4rem;
 }
 
-.container--products-heading {
-  margin-bottom: 9.6rem;
-}
+/* 2.4.2.1 product */
 
 .product {
   display: flex;
@@ -245,6 +278,8 @@ p.common-features-title {
 .div--product-buy-btn > a.btn {
   padding: 1.2rem 4.8rem;
 }
+
+/* 2.4.2.2 product-other-specifications */
 
 p.common-features-title {
   font-size: 3rem;
