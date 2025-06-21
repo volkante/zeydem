@@ -277,3 +277,9 @@ p.common-features-title {
   height: 3rem;
   color: #4c5b0c;
 }
+
+/*** 2.4 TESTIMONIALS SECTION ***/
+.testimonials-section {
+  display: grid;
+  grid-template-columns: 5.5fr 4.5fr;
+}

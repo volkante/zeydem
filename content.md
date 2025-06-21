@@ -86,7 +86,7 @@ Formu doldurun. Sizinle iletişime geçelim. Zeytinyağımızı ücretsiz deneyi
 
 ### Müşteri testimonialları
 
-Yağımıza güveniyoruz. Yine de bir de kullananlara sorun.
+Bizi tercih edenler ne dedi?
 
 [Photos of customers included]
 
