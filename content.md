@@ -86,6 +86,8 @@ Formu doldurun. Sizinle iletişime geçelim. Zeytinyağımızı ücretsiz deneyi
 
 ### Müşteri testimonialları
 
+Yağımıza güveniyoruz. Yine de bir de kullananlara sorun.
+
 [Photos of customers included]
 
 "Böylesine doğal ve lezzetli bir zeytinyağı uzun zamandır tatmamıştım. Her damlasında emeğinizi hissediyorum. Üstelik yerel bir çiftçiden geldiğini bilmek içimi daha da rahatlatıyor."
@@ -94,11 +96,11 @@ Formu doldurun. Sizinle iletişime geçelim. Zeytinyağımızı ücretsiz deneyi
 "Zeytinyağınız inanılmaz aromalı. Marketten aldıklarımla karşılaştırınca aradaki farkı anlamamak imkânsız. Kargo sürecindeki anlayışınız için ayrıca teşekkür ederim"
 – Murat Eren
 
-"Bu zeytinyağı kalite kokuyor. Etiketinde ne yazıyorsa aynen o var, hiçbir gizli katkı maddesi yok. Sizden alışveriş yapmak, güvendiğim bir dosttan almak gibi."
-– Selin Arıkan
+"Zeytinyağını çok sevdik. Etiketinde ne yazıyorsa aynen o var, hiçbir gizli katkı maddesi yok. Sizden alışveriş yapmak, güvendiğim bir dosttan almak gibi."
+– Selin Kesal Arıkan
 
 "Böyle kaliteli ürünleri büyük zincirlerde değil de doğrudan yerel bir üreticiden alabilmek büyük bir ayrıcalık. Doğallık, şeffaflık ve lezzet bir arada. Gerçekten harikasınız!"
-– Kemal Duran
+– Kemal Tevetoğlu
 
 ### Section with logos of featured publications [see images]
 
