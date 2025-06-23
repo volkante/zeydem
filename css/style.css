@@ -280,7 +280,44 @@ p.common-features-title {
 
 /*** 2.4 TESTIMONIALS SECTION ***/
 .testimonials-section {
-  padding: 9.6rem 0;
+  padding: 9.6rem 2.4rem 9.6rem 4.8rem;
   display: grid;
   grid-template-columns: 5.5fr 4.5fr;
+  background-color: #eff1e7;
+}
+
+.testimonials-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8rem;
+}
+
+.testimonial {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+}
+
+.testimonial-person-photo {
+  width: 6.4rem;
+  height: 6.4rem;
+}
+
+.testimonial-person-photo > img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.testimonials-text-container > .heading-secondary {
+  margin-bottom: 8rem;
+}
+
+.person-quote {
+  line-height: 1.5;
+}
+
+.person-name {
+  font-weight: 400;
+  font-size: 1.6rem;
+  color: #666;
 }

@@ -90,17 +90,17 @@ Bizi tercih edenler ne dedi?
 
 [Photos of customers included]
 
-"Böylesine doğal ve lezzetli bir zeytinyağı uzun zamandır tatmamıştım. Her damlasında emeğinizi hissediyorum. Üstelik yerel bir çiftçiden geldiğini bilmek içimi daha da rahatlatıyor."
-– Ayşe Güneş
-
-"Zeytinyağınız inanılmaz aromalı. Marketten aldıklarımla karşılaştırınca aradaki farkı anlamamak imkânsız. Kargo sürecindeki anlayışınız için ayrıca teşekkür ederim"
-– Murat Eren
-
-"Zeytinyağını çok sevdik. Etiketinde ne yazıyorsa aynen o var, hiçbir gizli katkı maddesi yok. Sizden alışveriş yapmak, güvendiğim bir dosttan almak gibi."
+"Hem lezzetli hem doğal olması. Zararlı kimyasallardan uzak olması içimi rahatlatıyor."
 – Selin Kesal Arıkan
 
-"Böyle kaliteli ürünleri büyük zincirlerde değil de doğrudan yerel bir üreticiden alabilmek büyük bir ayrıcalık. Doğallık, şeffaflık ve lezzet bir arada. Gerçekten harikasınız!"
-– Kemal Tevetoğlu
+"Aslında çok zeytinyağı seven birisi değildim ama bu başka. Diğer yağları unuttum diyebilirim."
+– Murat Eren
+
+"Zeytinyağını bir arkadaşım tavsiye etti. Anlatıldığı kadar varmış. Çok sevdim."
+– Linda Carol Çakmak
+
+"Markettekilerle fark çok bariz. Ailecek bayılıyoruz."
+– Mert Tevetoğlu
 
 ### Section with logos of featured publications [see images]
 
