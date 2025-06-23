@@ -280,6 +280,7 @@ p.common-features-title {
 
 /*** 2.4 TESTIMONIALS SECTION ***/
 .testimonials-section {
+  padding: 9.6rem 0;
   display: grid;
   grid-template-columns: 5.5fr 4.5fr;
 }
