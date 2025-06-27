@@ -326,6 +326,8 @@ p.common-features-title {
 
 .person-quote {
   line-height: 1.5;
+  font-size: 2rem;
+  color: #555;
 }
 
 .person-name {
