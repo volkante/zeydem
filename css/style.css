@@ -285,8 +285,9 @@ p.common-features-title {
   padding: 9.6rem 2.4rem 9.6rem 6.4rem;
   display: grid;
   grid-template-columns: 5.5fr 4.5fr;
-  gap: 3.2rem;
+  gap: 4.8rem;
   background-color: #eff1e7;
+  align-items: center;
 }
 
 /* 2.5.1 Testimonials */
@@ -301,7 +302,7 @@ p.common-features-title {
   display: grid;
   grid-template-columns: 1fr 1fr;
   row-gap: 9.6rem;
-  column-gap: 8rem;
+  column-gap: 6.4rem;
 }
 
 .testimonial {
@@ -325,7 +326,7 @@ p.common-features-title {
 }
 
 .person-quote {
-  line-height: 1.5;
+  line-height: 1.6;
   font-size: 2rem;
   color: #555;
 }
