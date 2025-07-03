@@ -370,10 +370,10 @@ p.common-features-title {
   margin-right: auto;
   padding-left: 1.6rem;
   display: grid;
-  grid-template-columns: 1fr 1fr /* minmax(min-content, 400px) */;
+  grid-template-columns: 1fr 1fr;
 }
 
-.free-olive-photo > img {
+.free-oil-photo > img {
   max-width: 100%;
   height: auto;
   object-fit: cover;
