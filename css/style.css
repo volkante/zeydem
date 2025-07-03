@@ -363,7 +363,12 @@ p.common-features-title {
 /*** 2.5 FREE OIL SECTION ***/
 
 .free-oil-section {
+  border: 2px solid black;
+  max-width: 120rem;
   margin-top: 9.6rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.6rem;
   display: grid;
   grid-template-columns: 1fr 1fr /* minmax(min-content, 400px) */;
 }
