@@ -372,7 +372,7 @@ p.common-features-title {
   grid-template-columns: 7fr 3fr;
   box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.1);
   border-radius: 12px;
-  background-image: linear-gradient(#dfe3cf, #afb987);
+  background-image: linear-gradient(to right bottom, #bfc79f, #8f9c57);
   /* temp */
   margin-bottom: 100px;
 }
