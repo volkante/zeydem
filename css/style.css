@@ -194,7 +194,7 @@ Checkmark'ları responsive'de kaldırmak veya yönetmek. Dengesiz küçülüyorl
   border-radius: 12px;
   overflow: hidden;
   transition: all 0.4s;
-  background-color: #eff1e7;
+  background-color: #cfd5b7;
 }
 
 .product:hover {
@@ -363,6 +363,7 @@ p.common-features-title {
 /*** 2.5 FREE OIL SECTION ***/
 
 .free-oil-section {
+  background-color: #cfd5b7;
   border: 2px solid black;
   max-width: 120rem;
   margin-top: 9.6rem;
