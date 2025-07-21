@@ -369,10 +369,24 @@ p.common-features-title {
 .cta {
   display: grid;
   grid-template-columns: 2fr 1fr;
-  background-color: #cfd5b7;
+  background-image: linear-gradient(to right bottom, #afb987, #7f8e3f);
   box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.15);
   border-radius: 12px;
+  margin-bottom: 9.6rem;
   /*** temp ***/
   height: 50rem;
-  margin-bottom: 5rem;
+}
+
+.cta-text-box {
+}
+
+.cta-img-box {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(175, 185, 135, 0.25),
+      rgba(128, 142, 63, 0.25)
+    ),
+    url("/img/products/free-small-oil.jpg");
+  background-size: cover;
+  background-position: center;
 }
