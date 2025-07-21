@@ -106,9 +106,9 @@ Bizi tercih edenler ne dedi?
 
 Title: İlk 100 ml zeytinyağınız bizden!
 
-Doğal, lezzetli ve katkısız zeytinyağımızı denemek ister misiniz?
-
-Formu doldurun, iletişime geçelim. İlk 100 ml’lik şişeniz ücretsiz olarak adresinize gelsin!
+Lezzetli ve katkısız zeytinyağımızı denemek ister misiniz? Formu
+doldurun, iletişime geçelim. İlk 100 ml’lik şişeniz ücretsiz olarak
+adresinize gelsin!
 
 ## Form
 
