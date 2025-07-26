@@ -432,6 +432,7 @@
                   type="text"
                   id="fullname"
                   placeholder="İsminiz Soyisminiz"
+                  required
                 />
                 <label for="phonenumber">Telefon numarası</label>
                 <input
@@ -439,7 +440,23 @@
                   name="phonenumber"
                   id="phonenumber"
                   placeholder="Telefon numaranız"
+                  required
                 />
+                <label for="where-did-you-hear-from-us"
+                  >Bizi nereden duydunuz?</label
+                >
+                <select
+                  name="where-did-you-hear-from-us"
+                  id="where-did-you-hear-from-us"
+                  required
+                >
+                  <option value="">Seçiniz</option>
+                  <option value="aile-arkadas">Aile veya arkadaş</option>
+                  <option value="instagram">Instagram</option>
+                  <option value="facebook">Facebook</option>
+                  <option value="youtube">Youtube</option>
+                  <option value="diger">Diğer</option>
+                </select>
                 <button class="btn">Gönder</button>
               </form>
             </div>
