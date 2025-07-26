@@ -361,7 +361,7 @@ p.common-features-title {
   transform: scale(110%);
 }
 
-/*** 2.5 FREE OIL SECTION ***/
+/*** 2.6 FREE OIL SECTION ***/
 
 .cta-section {
   padding: 9.6rem 1.6rem;
@@ -377,6 +377,8 @@ p.common-features-title {
   /*** temp ***/
   height: 50rem;
 }
+
+/* 2.6.1 Cta Text Part */
 
 .cta-text-box {
   color: #262e06;
@@ -394,7 +396,32 @@ p.common-features-title {
 
 .cta-text-box > .cta-text {
   line-height: 1.8;
+  margin-bottom: 3.2rem;
 }
+
+.cta-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.6rem;
+  align-items: end;
+}
+
+.cta-form div {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.cta-form input,
+select {
+  height: 4.8rem;
+}
+
+.cta-form button {
+  height: 4.8rem;
+}
+
+/* 2.6.2 Cta Image Part */
 
 .cta-img-box {
   background-image: linear-gradient(
