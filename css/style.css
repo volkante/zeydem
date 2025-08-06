@@ -411,6 +411,10 @@ p.common-features-title {
   margin-bottom: 1.2rem;
 }
 
+.cta-form input {
+  width: 100%;
+}
+
 /* 2.6.2 Cta Image Part */
 
 .cta-img-box {
