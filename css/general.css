@@ -139,9 +139,14 @@ body {
 
 .btn--form {
   background-color: #262e06;
-  color: #eff1e7;
+  color: #fdf2e9;
   align-self: end;
   padding: 1.2rem;
+}
+
+.btn--form:hover {
+  background-color: #fff;
+  color: #555;
 }
 /* General Text Elements */
 
@@ -197,6 +202,11 @@ strong {
 
 strong.price {
   color: #444;
+}
+
+*:focus {
+  outline: none;
+  box-shadow: 0 0 0 0.8rem rgba(93, 113, 15, 0.555);
 }
 
 /* HELPER CLASS */
