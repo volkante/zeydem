@@ -86,11 +86,11 @@ body {
   column-gap: 6.4rem;
 }
 
-.grid--5-columns {
+.grid--footer {
   display: grid;
-  grid-template-columns: repeat(5 1fr);
+  grid-template-columns: repeat(4, 1fr);
   column-gap: 6.4rem;
-  row-gap: 9.6rem;
+  row-gap: 6.4rem;
 }
 
 .container--heading {
