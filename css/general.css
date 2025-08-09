@@ -27,7 +27,7 @@ paragraph 1.5
 BACKGROUND - #f0eadb;
 PRIMARY - MAIN COLOR 1 DARK OLIVE: #5f720f
 TINT - MAIN COLOR 2 #eff1e7
-SHADES - 
+SHADES - #262e06
 ACCENTS - 
 GREY COLORS: 
 #666
@@ -137,6 +137,12 @@ body {
   background-color: #eff1e7;
 }
 
+.btn--form {
+  background-color: #262e06;
+  color: #eff1e7;
+  align-self: end;
+  padding: 1.2rem;
+}
 /* General Text Elements */
 
 h1,
