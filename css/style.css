@@ -465,3 +465,7 @@ p.common-features-title {
   font-size: 1.2rem;
   color: #777;
 }
+
+address {
+  font-size: 1.6rem;
+}
