@@ -453,3 +453,15 @@ p.common-features-title {
 .footer {
   padding: 9.6rem 0;
 }
+
+.footer-icon {
+  width: 3rem;
+  height: 3rem;
+  filter: brightness(0);
+  opacity: 60%;
+}
+
+.copyright > p {
+  font-size: 1.2rem;
+  color: #777;
+}
