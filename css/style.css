@@ -10,14 +10,14 @@ TODO 1 :Zeydem logosunun rengini ana renklerden biri yap. Mesela button veya but
   display: flex;
   align-items: center;
   background-color: #eff1e7;
-  padding-left: 1.6rem;
-  padding-right: 4.8rem;
+  padding: 0 3.2rem;
+  height: 9.6rem;
 }
 
 .logo {
   object-fit: cover;
   cursor: pointer;
-  height: 10rem;
+  height: 5.4rem;
   margin-right: auto;
 }
 
