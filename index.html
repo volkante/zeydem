@@ -479,7 +479,7 @@
     <footer class="footer">
       <div class="container grid--footer">
         <div class="logo-col">
-          <img src="img/logos/zeydem-logo.png" class="logo" alt="zeydem logo" />
+          <a href="#"><img src="img/logos/zeydem-logo.png" class="logo" alt="zeydem logo" /></a>
           <div class="facebook-icon">
             <ion-icon name="logo-facebook" class="footer-icon"></ion-icon>
           </div>
@@ -490,17 +490,28 @@
             <p>&#169; 2025 Zeydem. Tüm hakları saklıdır.</p>
           </div class="copyright">
         </div>
-
         <div class="contact-col">
           <p>Bize ulaşın</p>
-          <li>
-            <address>
-              Validei Atik Mah. Mantar Sok. No: 20 Köprübaşı/Manisa
-            </address>
-          </li>
+          <address>
+              <ul class="address-list">
+                <li class="location">Validei Atik Mah. Mantar Sok. No: 20 Köprübaşı/Manisa</li>
+                <li><a href="tel:+05559879798"> 05559879798</a></li>
+                <li>E-posta: <a href="mailto:zeydem@zeydem.com">zeydem@zeydem.com</a></li>
+              </ul>
+          </address>
         </div>
-        <div class="about-col">About</div>
-        <div class="conditions-col">Conditions</div>
+        <div class="about-col">
+          <nav class="footer-nav">
+          <p>Hakkımızda</p>
+            <ul class="footer-nav-list">
+              <li><a href="#">Hikayemiz</a></li>
+              <li><a href="#">Zeytinyağları</a></li>
+              <li><a href="#">Tarifler</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div class="conditions-col">
+          Conditions</div>
       </div>
     </footer>
     <script
