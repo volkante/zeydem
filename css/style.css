@@ -454,6 +454,18 @@ p.common-features-title {
   padding: 9.6rem 0;
 }
 
+/*** 3.1. Logo, Social Media Links and Copy Right ***/
+
+.logo--footer {
+  margin-bottom: 2.4rem;
+}
+
+.icons {
+  display: flex;
+  gap: 2.4rem;
+  margin-bottom: 6.4rem;
+}
+
 .footer-icon {
   width: 3rem;
   height: 3rem;
@@ -464,6 +476,12 @@ p.common-features-title {
 .copyright > p {
   font-size: 1.2rem;
   color: #777;
+}
+
+/*** 3.2. Contact us ***/
+
+.footer-nav-title {
+  color: #444;
 }
 
 address {
