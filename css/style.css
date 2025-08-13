@@ -456,7 +456,10 @@ p.common-features-title {
 
 /*** 3.1. Logo, Social Media Links and Copy Right Div ***/
 
-.logo--footer {
+.logo-social-media-copyrigt-col {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
 }
 
 .icons {
@@ -471,18 +474,22 @@ p.common-features-title {
   opacity: 60%;
 }
 
+.copyright {
+  margin-top: auto;
+}
+
 .copyright > p {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: #777;
 }
 
-/*** 3.2. Contact us ***/
+/*** 3.2. Contact Column - Col ***/
 
 .footer-nav-title {
   color: #333;
 }
 
-address {
+address p {
   font-size: 1.6rem;
   font-style: normal;
 }
@@ -495,9 +502,6 @@ address {
   font-style: normal;
 }
 
-.address-list,
-.footer-nav-list {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+.location {
+  line-height: 1.4;
 }
