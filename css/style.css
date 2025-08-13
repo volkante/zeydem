@@ -487,11 +487,23 @@ p.common-features-title {
 
 .footer-nav-title {
   color: #333;
+  margin-bottom: 3.2rem;
+}
+
+address {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
 }
 
 address p {
   font-size: 1.6rem;
   font-style: normal;
+  line-height: 1.4;
+}
+
+address a {
+  line-height: 1.2;
 }
 
 .nav-link--footer {
@@ -504,4 +516,10 @@ address p {
 
 .location {
   line-height: 1.4;
+}
+
+.footer-nav-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
 }

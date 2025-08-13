@@ -92,6 +92,7 @@ body {
   column-gap: 6.4rem;
   row-gap: 6.4rem;
   height: 19.2rem;
+  justify-items: center;
 }
 
 .container--heading {
