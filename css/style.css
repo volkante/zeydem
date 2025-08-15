@@ -9,16 +9,15 @@ TODO 1 :Zeydem logosunun rengini ana renklerden biri yap. Mesela button veya but
 .header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   background-color: #eff1e7;
-  padding: 0 3.2rem;
+  padding: 0 4.8rem;
   height: 9.6rem;
 }
 
 .logo {
   object-fit: cover;
-  cursor: pointer;
   height: 5.4rem;
-  margin-right: auto;
 }
 
 .nav {
@@ -507,16 +506,17 @@ address a {
   line-height: 1.2;
 }
 
+.location {
+  line-height: 1.4;
+}
+
+/* *** 3.3. Footer Navs *** */
 .nav-link--footer {
   color: #666;
   font-size: 1.6rem;
   font-weight: 400;
   text-decoration: none;
   font-style: normal;
-}
-
-.location {
-  line-height: 1.4;
 }
 
 .footer-nav-list {
