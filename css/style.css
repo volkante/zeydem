@@ -485,6 +485,8 @@ p.common-features-title {
 .footer-nav-title {
   color: #333;
   margin: 2.4rem 0 3.2rem;
+  font-weight: 500;
+  font-size: 1.8rem;
 }
 
 address {
@@ -508,16 +510,23 @@ address a {
 }
 
 /* *** 3.3. Footer Navs *** */
-.nav-link--footer {
+.footer-nav-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+}
+
+.nav-link--footer:link,
+.nav-link--footer:visited {
   color: #666;
   font-size: 1.6rem;
   font-weight: 400;
   text-decoration: none;
   font-style: normal;
+  transition: all 0.4s;
 }
 
-.footer-nav-list {
-  display: flex;
-  flex-direction: column;
-  gap: 2.4rem;
+.nav-link--footer:hover,
+.nav-link--footer:active {
+  color: #555;
 }
