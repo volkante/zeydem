@@ -476,9 +476,6 @@ p.common-features-title {
 .copyright {
   margin-top: 3.2rem;
   line-height: 1.5rem;
-}
-
-.copyright > p {
   font-size: 1.4rem;
   color: #777;
 }
