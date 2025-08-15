@@ -492,13 +492,13 @@ p.common-features-title {
 address {
   display: flex;
   flex-direction: column;
+  font-style: normal;
   gap: 2.4rem;
 }
 
 address p {
   font-size: 1.6rem;
-  font-style: normal;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 address a {

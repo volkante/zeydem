@@ -91,7 +91,6 @@ body {
   grid-template-columns: repeat(4, 1fr);
   column-gap: 6.4rem;
   row-gap: 6.4rem;
-  height: 20rem;
   justify-items: center;
 }
 
