@@ -475,7 +475,8 @@ p.common-features-title {
 }
 
 .copyright {
-  margin-top: auto;
+  margin-top: 3.2rem;
+  line-height: 1.5rem;
 }
 
 .copyright > p {
