@@ -226,3 +226,7 @@ strong.price {
 .center-text {
   text-align: center;
 }
+
+.margin-bottom-small {
+  margin-bottom: 2rem;
+}
