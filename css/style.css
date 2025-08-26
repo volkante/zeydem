@@ -51,7 +51,7 @@
   max-width: 120rem;
   margin-left: auto;
   margin-right: auto;
-  padding: 9.6rem 1.6rem;
+  padding: 9.6rem 2.4rem;
   gap: 9.6rem;
 }
 
@@ -359,7 +359,7 @@ p.common-features-title {
 /*** 2.6 FREE OIL SECTION ***/
 
 .cta-section {
-  padding: 9.6rem 1.6rem;
+  padding: 9.6rem 2.4rem;
 }
 
 .cta {
