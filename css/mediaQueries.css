@@ -1,3 +1,11 @@
 /* below 1344px (normal laptop screen) */
 @media (max-width: 84em) {
 }
+
+/* for landscape tablets 75 em (1200px)*/
+@media (max-width: 75em) {
+  html {
+    /*  9px / 16px = 0,56.25 */
+    font-size: 56.25%;
+  }
+}
