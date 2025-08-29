@@ -54,8 +54,11 @@
     text-align: center;
   }
 
-  /* .feature-icon > img {
-    width: 10rem;
-    height: 10rem;
-  } */
+  .grid--why-section {
+    grid-template-columns: 0.2fr 1fr;
+  }
+
+  .feature-icon {
+    justify-content: flex-start;
+  }
 }
