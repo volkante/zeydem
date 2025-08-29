@@ -22,7 +22,7 @@
 .nav {
   display: flex;
   align-items: center;
-  gap: 3rem;
+  gap: 4.8rem;
 }
 
 .nav-link {

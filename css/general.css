@@ -85,7 +85,7 @@ body {
   padding: 0 2.4rem;
 }
 
-.grid--4-columns {
+.grid--why-section {
   display: grid;
   grid-template-columns: 0.5fr 1fr 0.5fr 1fr;
   row-gap: 6.4rem;

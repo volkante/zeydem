@@ -12,4 +12,29 @@
   .header {
     padding: 0 2.4rem;
   }
+
+  .nav {
+    gap: 3.2rem;
+  }
+
+  .hero {
+    gap: 6.4rem;
+  }
+
+  .testimonials-section {
+    padding-left: 3.2rem;
+  }
+}
+
+/* for portrait tablets 55.5 em (888px) */
+@media (max-width: 55.5em) {
+  html {
+    /* 8px / 16px = 0,5*/
+    font-size: 50%;
+  }
+
+  .feature-icon > img {
+    width: 100px;
+    height: 100px;
+  }
 }
