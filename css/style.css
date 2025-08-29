@@ -27,7 +27,7 @@
 
 .nav-link {
   color: #333;
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: 500;
   text-decoration: none;
 }
@@ -111,8 +111,8 @@
 .feature-icon > img {
   display: block;
   object-fit: contain;
-  width: 120px;
-  height: 120px;
+  width: 12rem;
+  height: 12rem;
   /* filter: brightness(0);
   opacity: 65%; */
 }

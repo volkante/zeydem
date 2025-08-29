@@ -54,8 +54,8 @@
     text-align: center;
   }
 
-  .feature-icon > img {
-    width: 100px;
-    height: 100px;
-  }
+  /* .feature-icon > img {
+    width: 10rem;
+    height: 10rem;
+  } */
 }
