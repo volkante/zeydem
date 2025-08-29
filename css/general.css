@@ -85,21 +85,6 @@ body {
   padding: 0 2.4rem;
 }
 
-.grid--why-section {
-  display: grid;
-  grid-template-columns: 0.5fr 1fr 0.5fr 1fr;
-  row-gap: 6.4rem;
-  column-gap: 6.4rem;
-}
-
-.grid--footer {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  column-gap: 6.4rem;
-  row-gap: 6.4rem;
-  justify-items: center;
-}
-
 .container--heading {
   margin-bottom: 9.6rem;
 }

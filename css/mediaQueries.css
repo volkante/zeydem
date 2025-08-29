@@ -33,6 +33,27 @@
     font-size: 50%;
   }
 
+  .hero {
+    flex-direction: column;
+  }
+
+  .hero-content {
+    text-align: center;
+  }
+
+  .hero-content > p {
+    margin-bottom: 8rem;
+  }
+
+  .hero-buttons {
+    justify-content: center;
+  }
+
+  .hero-img-box {
+    max-width: 50rem;
+    text-align: center;
+  }
+
   .feature-icon > img {
     width: 100px;
     height: 100px;
